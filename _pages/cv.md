@@ -9,13 +9,16 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Education（教育背景）
 ======
 * B.S. in Shanghai University, 2014
 * M.S. in Shanghai University, 2017
-* Ph.D candidate in The Chinese University of Hong Kong, Shenzhen (Present)
+* Ph.D candidate, Program of Computer Information Engneering (CIE),  The Chinese University of Hong Kong, Shenzhen (Present)
+* GPA：3.34/4.0， 机械工程及自动化，上海大学，学士，2014
+* GPA： 3.70/4.0，机械电子工程，上海大学，硕士，2017           
+* 计算机信息工程,博士研究生，香港中文大学（深圳） (至今)
 
-Work experience
+Work experience （工作经历）
 ======
 * Summer 2015: Research Assistant
   * Github University
