@@ -3,10 +3,10 @@ main:
   - title: "Publications"
     url: /publications/  
 
-  - title: "Teaching"
+  - title: "Teaching（教学）"
     url: /teaching/    
     
-  - title: "Portfolio"
+  - title: "Portfolio(项目)"
     url: /portfolio/
         
   - title: "Blog Posts"
