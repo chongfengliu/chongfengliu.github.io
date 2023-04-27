@@ -35,14 +35,17 @@ Work experience （工作/实习经历）
   * 参与安全产品实验室的抗拉，抗摔，抗冲击，阻燃实验，及参与一款气体检测仪器的软件开发验证。
 * <b>2014.3 - 2014.6 通电电气开关有限公司</b>
   * 参与通用电气开关部门的电气柜的软件研发，基于Modbus RTU协议构建智能开关柜。
+
 Skills (主要技能)
 ======
-* English: CET-6, TOEFL(>80)
-* Skills：
+* <b>英语</b>: 英语六级，托福86
+* <b>技能</b>： C, Python, Matlab; Platform: STM32, Arduino, ESP32, Raspberry pi, 
+* <b>设计</b>: Altium Designer, 立创EDA, Solidworks, UG
 
 Service and leadership（服务与领导力）
 ======
 * Served as monitor and study committee member;
 * Currently serving as a reviewer for ICRA, IROS, Robio and other top conferences or well-known conferences in the field of robotics.
+
 * 曾担任班级学习委员与班长；
 * 目前担任ICRA,IROS,ROBIO等机器人领域顶会及知名会议的审稿人。
