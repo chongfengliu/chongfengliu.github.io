@@ -15,8 +15,8 @@ Education（教育背景）
 * M.S. in Shanghai University, 2017,Supervisor: Jun Luo
 * B.S. in Shanghai University, 2014
 
-* 计算机信息工程,博士研究生，香港中文大学（深圳） (至今), 导师：钱辉环教授
-* GPA： 3.70/4.0，机械电子工程，上海大学，硕士，2017，   导师：罗均教授 
+* 计算机信息工程,博士研究生，香港中文大学（深圳） (至今), 导师：<a href="https://sse.cuhk.edu.cn/faculty/qianhuihuan">钱辉环教授</a>
+* GPA： 3.70/4.0，机械电子工程，上海大学，硕士，2017，   导师：<a href="http://slmt.cqu.edu.cn/info/10513/87579.htm">罗均教授</a> 
 * GPA：3.34/4.0， 机械工程及自动化，上海大学，学士，2014
           
 
