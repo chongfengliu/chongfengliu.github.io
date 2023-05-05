@@ -39,7 +39,7 @@ Work experience （工作/实习经历）
 Skills (主要技能)
 ======
 * <b>英语</b>: 英语六级，托福86
-* <b>技能</b>： C, Python, Matlab, Linux; Platform: STM32, Arduino, ESP32, Raspberry pi, 
+* <b>技能</b>： C, Python, Matlab, Linux, FreeRTOS, ROS; Platform: STM32, Arduino, ESP32, Raspberry pi, 
 * <b>设计</b>: Altium Designer, 立创EDA, Solidworks, UG
 
 Service and leadership（服务与领导力）
