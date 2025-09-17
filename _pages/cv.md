@@ -9,15 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-Education（教育背景）
+Education（主要经历）
 ======
-* Ph.D candidate, Program of Computer Information Engneering (CIE),  The Chinese University of Hong Kong, Shenzhen (Present), Supervisor: Prof. Huihuan Qian
-* M.S. in Shanghai University, 2017,Supervisor: Prof. Jun Luo
-* B.S. in Shanghai University, 2014
-
 * 计算机信息工程，香港中文大学（深圳），博士研究生，(全英文教学), 2019 - 至今，导师：<a href="https://sse.cuhk.edu.cn/faculty/qianhuihuan">钱辉环教授</a>
-* GPA： 3.70/4.0，机械电子工程，上海大学，硕士（免试直升），2014 - 2017，导师：<a href="http://slmt.cqu.edu.cn/info/10513/87579.htm">罗均教授</a> 
-* GPA：3.34/4.0， 机械工程及自动化，上海大学，学士，2010 - 2014
 
 Work experience （工作/实习经历）
 ======
@@ -39,7 +33,7 @@ Work experience （工作/实习经历）
 Skills (主要技能)
 ======
 * <b>英语</b>: 英语六级，托福86
-* <b>技能</b>： C, Python, Matlab, Linux, FreeRTOS, ROS; Platform: STM32, Arduino, ESP32, Raspberry pi, 
+* <b>技能</b>： C, Python, Matlab, Linux, FreeRTOS, ROS/ROS2; Platform: STM32, Arduino, ESP32, Raspberry pi, 
 * <b>设计</b>: Altium Designer, 立创EDA, Solidworks, UG
 
 Service and leadership（服务与领导力）
