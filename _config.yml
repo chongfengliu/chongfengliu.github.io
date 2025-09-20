@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "zh-CN"
-title                    : "Chongfeng Liu/ Site Title"
+title                    : "Chongfeng Liu"
 title_separator          : "-"
 name                     : &name "Chongfeng Liu"
 description              : &description "personal description"
