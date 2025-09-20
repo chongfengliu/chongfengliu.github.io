@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to Chongfeng Liu's academic personal websites"
+title: "Welcome to Chongfeng Liu's personal websites"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
