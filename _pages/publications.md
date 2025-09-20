@@ -15,6 +15,7 @@ author_profile: true
 
 <h2>Conference Papers</h2>
 <ul>
+  <li><b>Liu Chongfeng</b>, Zhongzhong Cao, Zisui Guo1, et al. "Fast and Automatic Dock for Precise UAV Landing on a USV in Marine Environment." 18th International Conference on Intelligent Robotics and Applications (ICIRA 2025).</li>
   <li><b>Liu Chongfeng</b>, Zixing Jiang, Ruoyu Xu, et al. "Design and Optimization of a Magnetic Catcher for UAV Landing on Disturbed Aquatic Surface Platforms." 2022 International Conference on Robotics and Automation (ICRA). IEEE, 2022.</li>
   <li><b>Liu Chongfeng*</b>, Xue Kaiwen*, Xu Ruoyu, et al. "A two-stage automatic latching system for the USVs charging in disturbed berth." 2020 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS). IEEE, 2020.</li>
   <li>Huang, Yan-Wei, <b>Liu Chongfeng</b>, Fu Zhanghua, et al. "Dynamic task sequencing of manipulator by Monte Carlo tree search." 2018 IEEE International Conference on Robotics and Biomimetics (ROBIO). IEEE, 2018.</li>
